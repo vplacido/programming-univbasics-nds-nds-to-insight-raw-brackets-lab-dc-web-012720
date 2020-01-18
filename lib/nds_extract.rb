@@ -3,8 +3,9 @@ require 'directors_database'
 
 def directors_totals(nds)
   newHash = {}
-  i = 0 
+  director = 0 
   while i < nds.length do 
     result[nds[i][:name]] = 
+    movie = 0 
   
 end
