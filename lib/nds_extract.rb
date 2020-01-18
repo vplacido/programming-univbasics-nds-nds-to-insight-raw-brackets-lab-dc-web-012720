@@ -21,6 +21,6 @@ def directors_totals(nds)
   newHash = {}
   i = 0 
   while i < nds.length do 
-    result[]
+    result[nds[i][:name]] = 
   
 end
